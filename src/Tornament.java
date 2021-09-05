@@ -13,6 +13,7 @@ public class Tornament {
         void skrivUt(){
             System.out.println(value);
         }
+
     }
      static  Node playMatch(Node team_1, Node team_2){
         char vinner;
